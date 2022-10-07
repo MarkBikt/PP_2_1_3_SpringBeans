@@ -16,7 +16,6 @@ public class Application {
             bean.whatAnimalSay();
         }
     }
-
 }
 //1) Создайте бин Dog, унаследуйте его от Animal. Создайте на основе этого класса компонент.
 //2) Запустите приложение и проверьте, что было выброшено исключение NoUniqueBeanDefinitionException.
